@@ -1,6 +1,6 @@
 # Descargas---EIDOS
 
-Aquí se puede descargar la base de datos con algunos ejemplos de especies y la documentación del mismo.
+Aquí se puede descargar la base de datos en formato MS Access con algunos ejemplos de especies y la documentación de la misma.
 
 La descarga se realiza desde la opción “Clone or download” y a continuación “Download ZIP”. 
 
