@@ -1,6 +1,6 @@
 # Descargas---EIDOS
 
-Aquí se puede descargar la base de datos en formato MS Access con algunos ejemplos de especies y la documentación de la misma.
+Aquí se puede descargar la base de datos en formato MS Access con algunos ejemplos de especies, la documentación de la misma, las sentencias SQL y el archivo del Enterprise Architect (EIDOS.feap).
 
 La descarga se realiza desde la opción “Clone or download” y a continuación “Download ZIP”. 
 
